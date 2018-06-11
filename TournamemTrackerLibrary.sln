@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "co.mz.TournamentLibrary", "co.mz.TournamentLibrary\co.mz.TournamentLibrary.csproj", "{D9CDF6BE-9923-4C99-A6BD-BA947B13DBA4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TournamentTrackerUI", "TournamentTrackerUI\TournamentTrackerUI.csproj", "{3C060758-9623-4076-B423-1B9FE129F201}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "co.mz.TournamentBusinessRules", "co.mz.TournamentBusinessRules\co.mz.TournamentBusinessRules.csproj", "{C0ED2C0A-48D7-46F3-913F-850DA07FA28C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{D9CDF6BE-9923-4C99-A6BD-BA947B13DBA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9CDF6BE-9923-4C99-A6BD-BA947B13DBA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9CDF6BE-9923-4C99-A6BD-BA947B13DBA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C060758-9623-4076-B423-1B9FE129F201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C060758-9623-4076-B423-1B9FE129F201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C060758-9623-4076-B423-1B9FE129F201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C060758-9623-4076-B423-1B9FE129F201}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0ED2C0A-48D7-46F3-913F-850DA07FA28C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0ED2C0A-48D7-46F3-913F-850DA07FA28C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0ED2C0A-48D7-46F3-913F-850DA07FA28C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0ED2C0A-48D7-46F3-913F-850DA07FA28C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

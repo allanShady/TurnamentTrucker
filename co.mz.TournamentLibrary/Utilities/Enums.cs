@@ -4,9 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace co.mz.TournamentLibrary
+namespace co.mz.TournamentLibrary.Utilities
 {
-    public class Class1
+    public enum DatabaseType
     {
+        SQL,
+        TextFile
     }
 }
